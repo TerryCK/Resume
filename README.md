@@ -6,7 +6,7 @@ Great to see you,
 我是陳冠禎，喜歡攝影、旅遊、閱讀，是一位有樂天積極人生觀的人，目前專注在iOS相關開發
 
 
-| 專案名稱| App Store | GitHub | 簡介 | 私人筆記 |
+| 專案名稱| AppStore | GitHub | 簡介 | 私人筆記 |
 | ------| ------- | ------ | ------ | ------ |
 | GoBike | [傳送門](https://goo.gl/cqPrsf)| [Repo](https://goo.gl/sDVT3t) | 全台9縣市即時共享單車導航地圖，串接整合解析Xml, JSON, 以StoryBoard實現UI，實作Delegate Pattern，部分功能以POP架構模式開發| 私藏 |
 | Go交換站 | [傳送門](https://goo.gl/oT9ymK) | [Repo](https://goo.gl/t7BRz3) | 全台Gogoro電池交換站即時導航地圖，以OOP\*, POP\*設計導向，MVC基底架構，採用StoreKit | 私藏 |
