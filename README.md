@@ -1,9 +1,9 @@
 
 # iOS Developer Overview
 
-hi! 我是Terry, 很高興你能來我的個人小天地。
-
-Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者，目前專注在iOS相關開發，注重程式品質：1.`易閱讀`、2.`低耦合`、3.`好維護`、4.`可擴充`
+hi! 我是Terry, 很高興你能來我的個人小天地。<br>
+Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者，目前專注在iOS相關開發，注重程式品質：1.`易閱讀`、2.`低耦合`、3.`好維護`、4.`可擴充`<br>
+[Terry簡歷](https://goo.gl/tmE5w5)
 
 | 專案名稱| AppStore | GitHub | 簡介 | 私人筆記 |
 | ------| ------- | ------ | ------ | ------ |
@@ -31,7 +31,7 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 
 \*VFL: Visual Format Language是蘋果用來描述UI佈局的語言[更多資訊](https://goo.gl/UDCXNm)
 
-[Terry簡歷](https://github.com/TerryCK/Resume/blob/master/coverLetter.pdf)  
+
 
 
 ### 更新歷史
