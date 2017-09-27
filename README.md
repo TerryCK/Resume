@@ -54,10 +54,9 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 
 
 
-## 更新歷史
-	2017.9.26 	First release 
+## 更新歷史 
 	2017.9.27 	Update screenshots
-
+	2017.9.26 	First release
 ## 如何聯繫？
 
 * [Chen, Guan-Jhen](https://goo.gl/USI7g5)
