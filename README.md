@@ -36,21 +36,21 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 
 ## Screen Shots
 
-##### Go交換站 
+### Go交換站 
 [Repo](https://goo.gl/QjQe8W)<br>
-!["GoBike"](/screenshots/GoBattery.jpg)
-##### GoBike
+!["Go交換站"](/screenshots/GoBattery.jpg)
+### GoBike
 [Repo](https://goo.gl/sDVT3t)<br>
 !["GoBike"](/screenshots/Gobike.jpg)
-##### 即時聊天室
+### 即時聊天室
 [Repo](https://goo.gl/QjQe8W)<br>
-!["GoBike"](/screenshots/chatroom.jpg)
-##### UICoding
+!["即時聊天室"](/screenshots/chatroom.jpg)
+### UICoding
 [Repo](https://goo.gl/nZqR2h)<br>
-!["GoBike"](/screenshots/mockFacebookUI.jpg)
-##### MockYoutube
+!["UICoding"](/screenshots/mockFacebookUI.jpg)
+### MockYoutube
 [Repo](https://goo.gl/2dP8se)<br>
-!["GoBike"](/screenshots/mockYoutube.jpg)
+!["MockYoutube"](/screenshots/mockYoutube.jpg)
 
 
 
