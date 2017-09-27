@@ -23,12 +23,12 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 
 
 
-1. OOP\*: Objective Oriented Programming 物件導向程式設計 
-2. POP\*: Protocol Oriented Programming 協議導向程式設計
-3. FOP\*: Functional Oriented Programming 功能導向程式設計
-4. MVC\*: MVC- Model-View-Controller 一種架構型的設計模式
-5. iAP\*: In-App Purchase: app內購買
-6. VFL: Visual Format Language是蘋果用來描述UI佈局的語言[更多資訊](https://goo.gl/UDCXNm)
+1. OOP\* : Objective Oriented Programming 物件導向程式設計 
+2. POP\* : Protocol Oriented Programming 協議導向程式設計
+3. FOP\* : Functional Oriented Programming 功能導向程式設計
+4. MVC\* : MVC- Model-View-Controller 一種架構型的設計模式
+5. iAP\* : In-App Purchase: app內購買
+6. VFL\* : Visual Format Language是蘋果用來描述UI佈局的語言[更多資訊](https://goo.gl/UDCXNm)
 
 
 
