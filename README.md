@@ -12,6 +12,7 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 | [GoBike](#gobike) | [傳送門](https://goo.gl/cqPrsf)| [Repo](https://goo.gl/sDVT3t) | 全台9縣市即時共享單車導航地圖，串接整合解析Xml, JSON, 以StoryBoard實現UI，實作Delegate Pattern，部分功能以POP架構模式開筆記發| 私藏 |
 | [即時聊天室](#即時聊天室) | 未上架 | [Repo](https://goo.gl/QjQe8W) | 理解即時資料庫的實作 | 私藏 |
 | [UICoding](#uicoding) | 未上架 | [Repo](https://goo.gl/nZqR2h) | 在屏東實體及線上開發者聚會中分享如何以Swift程式碼設計模仿Facebook的App UI畫面介面 | [Slide](https://goo.gl/1ZcGzc) |
+| [POP經驗分享](#Protocol-Oriented-Programming) | 未上架 | [Repo](/Protocol-Oriented-Programming) | 線上讀書會分享POP使用相關技巧與經驗 | [Slide](https://goo.gl/Pzp1Hj) |
 | [MockYoutube](#mockYoutube) | 未上架 | [Repo](https://goo.gl/2dP8se) | 以Swift程式碼設計仿製Youtube的App UI畫面 | 私藏 |
 | 理解 Autolayout | 未上架 | 未上架 | 以NSLayoutConstraint及[VFL](#6-vfl--visual-format-language是蘋果用來描述ui佈局的語言更多資訊)實作簡易的UI畫面| [筆記](https://goo.gl/8KgPEs) |
 | 實作Optional | 未上架 | [Repo](https://goo.gl/4w53mS) | 透過Enum實作Optional功能以理解Swift語言特色<br> 1.Generic 2.Optional 3.Enumeration 4.自定義後綴運算元實現語法糖衣 5.透過Protocol完成更強大的功能 <br/> | [筆記](https://goo.gl/SW95Ys) |
@@ -48,6 +49,8 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 ### UICoding
 [Repo](https://goo.gl/nZqR2h)<br>
 !["UICoding"](/screenshots/mockFacebookUI.jpg)
+### Protocol Oriented Programming
+!["POP"](/screenshots/POP.png)
 ### MockYoutube
 [Repo](https://goo.gl/2dP8se)<br>
 !["MockYoutube"](/screenshots/mockYoutube.jpg)
