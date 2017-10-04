@@ -59,7 +59,7 @@ Terry是一位喜歡攝影、旅遊、閱讀，有樂天積極人生觀開發者
 
 
 ## 更新歷史 
-	2017.10.1	Update POP secssion
+	2017.10.1	Update POP secession
 	2017.9.27   Update screenshots
 	2017.9.26   First release
 ## 需要iOS開發嗎？
